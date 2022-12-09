@@ -1,0 +1,2 @@
+include flasked_docs/static/*
+include flasked_docs/templates/*
