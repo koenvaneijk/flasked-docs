@@ -1,2 +1,2 @@
-include flasked_docs/static/*
-include flasked_docs/templates/*
+recursive-include flasked_docs/static *
+recursive-include flasked_docs/templates *
