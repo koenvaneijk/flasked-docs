@@ -1,6 +1,11 @@
 # Flasked-Docs
 
-Flasked-Docs is a simple documentation generator for Flask applications. Simply by pointing the extension to a folder of markdown files, Flasked Docs will generate a documentation site for your application.
+Flasked-Docs is a markdown documentation renderer for Flask applications. Simply by pointing the extension to a folder of markdown files, Flasked-Docs will take care of handling the routes and rendering the markdown files to HTML.
+
+Turn this:
+![From](screenshot1.png)
+... into this:
+![To](screenshot2.png)
 
 ## Installation
 ```bash
